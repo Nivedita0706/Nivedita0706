@@ -30,5 +30,5 @@ Whether it’s building insightful dashboards, optimizing business operations, o
 ---
 
 ## 📬 Let’s Connect!
-- LinkedIn: [https://www.linkedin.com/in/niveditaviyer/](#)  
+- LinkedIn: https://www.linkedin.com/in/niveditaviyer/  
 - Email: niveditaforwork07@gmail.com
