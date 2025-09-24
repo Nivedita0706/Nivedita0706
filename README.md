@@ -1,5 +1,5 @@
 # Hey, I'm Nivedita! 👋
-
+![LinkedIn Banner](https://github.com/Nivedita0706/Banner/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 I help businesses turn raw data into meaningful insights and smarter decisions.  
 Currently working as a **Business Intelligence Developer & Data Analyst** at *Eazy ERP Technologies Pvt. Ltd.*, I’m passionate about solving real-world problems through data visualization, analytics, and automation.
 
